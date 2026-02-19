@@ -1,0 +1,2 @@
+../Core/Src/usart.c:9:6:transmit	24	static
+../Core/Src/usart.c:17:6:USART_change_freq	8	static

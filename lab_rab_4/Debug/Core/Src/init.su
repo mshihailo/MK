@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Core/Src/init.c:9:6:ADC1_GPIO_Init	4	static
+../Core/Src/init.c:20:6:ADC1_Init	8	static
+../Core/Src/init.c:46:6:RCC_Init	4	static
+../Core/Src/init.c:99:6:DAC_MODER_Init	4	static
+../Core/Src/init.c:107:6:DAC_Init	8	static
+../Core/Src/init.c:116:6:USART2_MODER_Init	4	static
+../Core/Src/init.c:138:6:USART2_Init	8	static
+../Core/Src/init.c:155:6:TIM6_Init	8	static
+../Core/Src/init.c:170:6:SysTick_Init	8	static
