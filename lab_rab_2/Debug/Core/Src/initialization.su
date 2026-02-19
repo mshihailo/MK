@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Core/Src/initialization.c:11:6:GPIOA_Init	4	static
+../Core/Src/initialization.c:36:6:LED_mode_setup	4	static
+../Core/Src/initialization.c:67:6:USART2_Init	8	static
