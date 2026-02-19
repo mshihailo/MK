@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6/build/Debug",
+  "command": "C:\\Users\\user\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -IC:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6/Inc -IC:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6 -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -g -std=gnu11 -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\lab_rab_6.dir\\Src\\main.c.obj -c C:\\Users\\user\\OneDrive\\Desktop\\Учёба\\МК\\lab_rab_6\\Src\\main.c",
+  "file": "C:\\Users\\user\\OneDrive\\Desktop\\Учёба\\МК\\lab_rab_6\\Src\\main.c",
+  "output": "CMakeFiles\\lab_rab_6.dir\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6/build/Debug",
+  "command": "C:\\Users\\user\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -IC:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6/Inc -IC:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6 -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -g -std=gnu11 -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\lab_rab_6.dir\\Src\\syscall.c.obj -c C:\\Users\\user\\OneDrive\\Desktop\\Учёба\\МК\\lab_rab_6\\Src\\syscall.c",
+  "file": "C:\\Users\\user\\OneDrive\\Desktop\\Учёба\\МК\\lab_rab_6\\Src\\syscall.c",
+  "output": "CMakeFiles\\lab_rab_6.dir\\Src\\syscall.c.obj"
+},
+{
+  "directory": "C:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6/build/Debug",
+  "command": "C:\\Users\\user\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -IC:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6/Inc -IC:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6 -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -g -std=gnu11 -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\lab_rab_6.dir\\Src\\sysmem.c.obj -c C:\\Users\\user\\OneDrive\\Desktop\\Учёба\\МК\\lab_rab_6\\Src\\sysmem.c",
+  "file": "C:\\Users\\user\\OneDrive\\Desktop\\Учёба\\МК\\lab_rab_6\\Src\\sysmem.c",
+  "output": "CMakeFiles\\lab_rab_6.dir\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6/build/Debug",
+  "command": "C:\\Users\\user\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -IC:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6/Inc -IC:/Users/user/OneDrive/Desktop/Учёба/МК/lab_rab_6 -g -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -O0 -g3 -ggdb -o CMakeFiles\\lab_rab_6.dir\\Src\\startup_stm32f446xx.S.obj -c C:\\Users\\user\\OneDrive\\Desktop\\Учёба\\МК\\lab_rab_6\\Src\\startup_stm32f446xx.S",
+  "file": "C:\\Users\\user\\OneDrive\\Desktop\\Учёба\\МК\\lab_rab_6\\Src\\startup_stm32f446xx.S",
+  "output": "CMakeFiles\\lab_rab_6.dir\\Src\\startup_stm32f446xx.S.obj"
+}
+]
